@@ -1,0 +1,6 @@
+/storage
+/docker
+/vendor
+/.vscode
+composer.lock
+docker-compose.*
