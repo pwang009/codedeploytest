@@ -8,3 +8,4 @@ $date = Carbon::now();
 
 echo "server name is:   " . gethostname();
 echo "<br /> local time is:   " .  $date->toDayDateTimeString();
+echo "Name is: Tony"
