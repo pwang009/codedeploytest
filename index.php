@@ -10,4 +10,3 @@ echo "server name is:   " . gethostname();
 echo "<br /> local time is:   " .  $date->toDayDateTimeString();
 echo "<br /> Name is: Tony";
 echo "<br /> Name is: Faisal";
-echo "<br /> Name is: Siyea.net";
